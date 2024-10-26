@@ -2,6 +2,4 @@
 
 是一款2D橫向卷軸對戰遊戲
 
-如果有需求請查看一下影片：
-
-https://youtu.be/i7FX9p0e8QM?si=alto7BZwpWmdNKDF
+介紹影片：https://youtu.be/i7FX9p0e8QM?si=alto7BZwpWmdNKDF
